@@ -1,0 +1,25 @@
+{
+  "_id": "ObjectID()",
+  "user": "ObjectID()",
+  "company": "string",
+  "position": "string",
+  "position_link": "optional string",
+  "location": "optional string",
+  "salary": "optional int",
+  "status": "string",
+  "contacts": [
+    {
+      "name": "string",
+      "email": "string",
+      "phone": "string",
+      "notes": "string"
+    }
+  ],
+  "events": [
+    {
+      "type": "string",
+      "date": "string",
+      "notes": "string"
+    }
+  ]
+}

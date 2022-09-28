@@ -1,0 +1,6 @@
+{
+  "_id": "ObjectID()",
+  "firstName": "string",
+  "lastName": "string",
+  "password": "string but hashed"
+}
