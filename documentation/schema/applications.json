@@ -10,16 +10,16 @@
   "contacts": [
     {
       "name": "string",
-      "email": "string",
-      "phone": "string",
-      "notes": "string"
+      "email": "optional string",
+      "phone": "optional string",
+      "notes": "optional string"
     }
   ],
   "events": [
     {
       "type": "string",
       "date": "string",
-      "notes": "string"
+      "notes": "optional string"
     }
   ]
 }
